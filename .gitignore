@@ -1,0 +1,10 @@
+.DS_Store
+baseline_*
+test/
+tfenv/
+train/
+resnet*
+submission.csv
+train_labels.csv
+.ipynb_checkpoints/
+
